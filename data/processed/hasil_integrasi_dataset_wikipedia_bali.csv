@@ -1,0 +1,16 @@
+﻿id,kode_provinsi,nama_provinsi,bps_kode_kabupaten_kota,bps_nama_kabupaten_kota,bulan,asal_wisatawan,jumlah_wisatawan,satuan,tahun,nama_objek_dataset,nama_normalisasi,nama_objek_wikipedia,url_artikel,kategori_sumber
+1,32,Air Sanih,3208,"KABUPATEN
+  KUNINGAN",JANUARI,WISNUS,282584,ORANG,2016,Air Sanih,air sanih,Air Sanih,https://id.wikipedia.org/wiki/Air_Sanih,Tempat wisata di Bali
+2,32,Air Terjun Gitgit,3208,KABUPATEN KUNINGAN,JANUARI,WISMAN,9,ORANG,2016,Air Terjun Gitgit,gitgit,Air Terjun Gitgit,https://id.wikipedia.org/wiki/Air_Terjun_Gitgit,Tempat wisata di Bali
+3,32,Air Terjun Tegenungan,3208,"KABUPATEN
+  KUNINGAN",JANUARI,WISNUS,165558,ORANG,2017,Air Terjun Tegenungan,tegenungan,Air Terjun Tegenungan,https://id.wikipedia.org/wiki/Air_Terjun_Tegenungan,Tempat wisata di Bali
+4,32,Amed,3208,KABUPATEN KUNINGAN,JANUARI,WISMAN,9,ORANG,2017,Amed,amed,Amed,https://id.wikipedia.org/wiki/Amed,Tempat wisata di Bali
+5,32,Bali Safari & Marine Park,3208,"KABUPATEN
+  KUNINGAN",JANUARI,WISNUS,161808,ORANG,2018,Bali Safari & Marine Park,bali safari marine park,Bali Safari & Marine Park,https://id.wikipedia.org/wiki/Bali_Safari_%26_Marine_Park,Tempat wisata di Bali
+6,32,"Batukaang, Kintamani, Bangli",3208,KABUPATEN KUNINGAN,JANUARI,WISMAN,25,ORANG,2018,"Batukaang, Kintamani, Bangli",batukaang kintamani bangli,"Batukaang, Kintamani, Bangli","https://id.wikipedia.org/wiki/Batukaang,_Kintamani,_Bangli",Tempat wisata di Bali
+7,32,Bedugul,3208,"KABUPATEN
+  KUNINGAN",JANUARI,WISNUS,192564,ORANG,2019,Bedugul,bedugul,Bedugul,https://id.wikipedia.org/wiki/Bedugul,Tempat wisata di Bali
+8,32,Candi Dasa,3208,KABUPATEN KUNINGAN,JANUARI,WISMAN,7,ORANG,2019,Candi Dasa,candi dasa,Candi Dasa,https://id.wikipedia.org/wiki/Candi_Dasa,Tempat wisata di Bali
+9,32,Pantai Dreamland,3208,"KABUPATEN
+  KUNINGAN",JANUARI,WISNUS,209176,ORANG,2020,Pantai Dreamland,dreamland,Pantai Dreamland,https://id.wikipedia.org/wiki/Pantai_Dreamland,Tempat wisata di Bali
+10,32,Embung Tukad Unda,3208,KABUPATEN KUNINGAN,JANUARI,WISMAN,16,ORANG,2020,Embung Tukad Unda,embung tukad unda,Embung Tukad Unda,https://id.wikipedia.org/wiki/Embung_Tukad_Unda,Tempat wisata di Bali

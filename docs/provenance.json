@@ -1,0 +1,40 @@
+{
+  "project": "Sebaran Daya Tarik Wisata di Provinsi Bali",
+  "accessed_at": "2026-11-27T00:58:15.890446+00:00",
+  "user_agent": "UTS-DAM-Wisata-Bali/1.0 (ikadekanantawijayaastawa@gmail.com)",
+  "sources": [
+    {
+      "name": "Dataset Lokal - Banyaknya Pengunjung Daya Tarik Wisata per Bulan",
+      "method": "Dataset lokal dalam direktori raw project",
+      "file": "banyaknya__pengunjung_daya_tarik_wisata_per_bulan.csv",
+      "size_bytes": 12580,
+      "md5": "a1102ac62be2d85ce53d31ca0e39fc51"
+    },
+    {
+      "name": "Open-Meteo Historical Weather API",
+      "url": "https://archive-api.open-meteo.com/v1/archive",
+      "method": "HTTP GET request dengan parameter koordinat representatif",
+      "license": "Non-commercial / Academic free use (CC BY 4.0)",
+      "file": "open_meteo_kuningan_2016_2022.json",
+      "size_bytes": 71714,
+      "md5": "92d2f9df99439366234a901171b978b4"
+    },
+    {
+      "name": "Wikipedia - Kategori Tempat wisata di Bali",
+      "url": "https://id.wikipedia.org/wiki/Kategori:Tempat_wisata_di_Bali",
+      "robots_url": "https://id.wikipedia.org/robots.txt",
+      "robots_allowed": true,
+      "method": "Static HTML scraping menggunakan BeautifulSoup setelah pengecekan robots.txt",
+      "license": "CC BY-SA 3.0",
+      "file": "wikipedia_kategori_tempat_wisata_bali.html",
+      "size_bytes": 97983,
+      "md5": "811de96b9b7c683e33676e51579e176e"
+    }
+  ],
+  "outputs": [
+    "data/processed/cuaca_kuningan_bulanan.csv",
+    "data/processed/wikipedia_tempat_wisata_bali.csv",
+    "data/processed/hasil_integrasi_dataset_wikipedia_bali.csv",
+    "docs/data_ethics_checklist.csv"
+  ]
+}

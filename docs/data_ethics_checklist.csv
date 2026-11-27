@@ -1,0 +1,10 @@
+﻿Butir,Status,Bukti / Penjelasan
+1. Legalitas dan izin sumber,Lulus,Wikipedia diakses sesuai dengan aturan robots.txt (diizinkan). API Open-Meteo berstatus bebas digunakan untuk kebutuhan non-komersial/akademik.
+2. Tujuan penggunaan,Lulus,Penggunaan ditujukan murni untuk pemenuhan tugas akademik mata kuliah Data Acquisition & Management.
+3. Minimalisasi data,Lulus,"Hanya mengumpulkan atribut publik yang relevan seperti koordinat cuaca (suhu, presipitasi, kecepatan angin) dan nama lokasi wisata."
+4. Data pribadi (PII),Tidak ditemukan,"Tidak ada data informasi pribadi individu yang dikumpulkan, semua data berupa nama tempat umum dan indikator cuaca historis."
+5. Quasi-identifier,Risiko rendah,"Koordinat geografis wilayah Kuningan/Bali serta nama objek wisata bersifat publik terbuka, tidak dapat merekonstruksi identitas personal."
+6. Persetujuan dan ekspektasi,Lulus,Tidak ada pelacakan individu atau perekaman data sensitif pengguna. Seluruh data bersifat agregat dan spasial umum.
+7. Keamanan,Lulus,"Pengambilan data tidak membutuhkan API key rahasia yang rawan bocor. Request dirancang aman dengan delay, timeout, dan mekanisme retry."
+8. Bias dan keterwakilan,Perlu diperhatikan,"Data cuaca menggunakan koordinat representatif dan data Wikipedia bersifat crowdsourcing, sehingga mungkin memiliki batasan presisi spasial lokal."
+9. Atribusi dan retensi,Lulus,"Hasil akhir disimpan dengan mencantumkan metadata lengkap, termasuk pencatatan riwayat request, ukuran file, dan format data."
