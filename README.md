@@ -34,7 +34,7 @@ Proyek menggunakan tiga metode akuisisi data, yaitu:
 
 3.  **Web Scraping**
 
-    Mengambil informasi daftar tempat wisata di Bali melalui halaman
+    Mengambil informasi daftar tempat wisata di Jawa Barat melalui halaman
     kategori Wikipedia bahasa Indonesia menggunakan library
     BeautifulSoup. Sebelum scraping dilakukan, terlebih dahulu diperiksa
     ketentuan `robots.txt` untuk memastikan aktivitas pengambilan data
@@ -66,12 +66,12 @@ UTS_DAM_2501010124/
 │   │   ├── banyaknya__pengunjung_daya_tarik_wisata_per_bulan.csv
 │   │   ├── open_meteo_kuningan_2016_2022.json
 │   │   ├── wikipedia_robots.txt
-│   │   └── wikipedia_kategori_tempat_wisata_bali.html
+│   │   └── wikipedia_kategori_tempat_wisata_barat.html
 │   │
 │   └── processed/
 │       ├── pengunjung_wisata_per_bulan_clean.csv
 │       ├── cuaca_kuningan_bulanan.csv
-│       ├── wikipedia_tempat_wisata_bali.csv
+│       ├── wikipedia_tempat_wisata_jawa_barat.csv
 │       └── hasil_integrasi_pengunjung_cuaca_kuningan.csv
 │
 ├── docs/
