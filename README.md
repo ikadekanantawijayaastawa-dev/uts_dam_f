@@ -190,7 +190,7 @@ periode waktu, bukan menggunakan kolom bernilai tetap.
 
 Hasil integrasi disimpan sebagai file CSV di folder `data/processed/`.
 
-Data scraping Wikipedia Bali disimpan sebagai hasil akuisisi tersendiri
+Data scraping Wikipedia Jawa Barat disimpan sebagai hasil akuisisi tersendiri
 dan tidak dicampurkan dengan dataset Kuningan karena memiliki cakupan
 wilayah berbeda.
 
@@ -236,7 +236,7 @@ Hasil pengerjaan proyek terdiri dari:
 
 1.  Dataset mentah dari portal data terbuka.
 2.  Data cuaca historis hasil akuisisi API Open-Meteo.
-3.  Data tempat wisata Bali hasil web scraping Wikipedia.
+3.  Data tempat wisata Jawa Barat hasil web scraping Wikipedia.
 4.  Dataset yang telah dibersihkan.
 5.  Dataset hasil integrasi pengunjung wisata dan data cuaca.
 6.  Data Ethics Checklist.
